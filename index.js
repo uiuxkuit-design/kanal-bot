@@ -2,9 +2,9 @@ const { Telegraf, Markup } = require('telegraf');
 
 const BOT_TOKEN = '8259123280:AAEcqs6-LaEfpv8ZthiVoCORoRxxUrpwiWQ';
 const ADMIN_ID = 591146270;
-const CHANNEL_LINK = 'https://t.me/+JQ8ZKcRxu8IyZmYy';
-const CARD_NUMBER = '5614681850440813';
-const PRICE = '100,000 so\'m';
+const CHANNEL_LINK = 'https://t.me/+p1uhVJArGmMxZTc6';
+const CARD_NUMBER = '9860160646529604';
+const PRICE = '500,000 so\'m';
 
 const bot = new Telegraf(BOT_TOKEN);
 
